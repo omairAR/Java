@@ -7,13 +7,11 @@ public class Omair{
 		System.out.println("My Age is 23");
 		
 		System.out.println("i am a student ");
-		
+
 		System.out.println("i study ");
 
-
-
+		System.out.println("in hamdard ");
 		
-
 
 
 	 }
