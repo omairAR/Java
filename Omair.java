@@ -12,7 +12,7 @@ public class Omair{
 
 		System.out.println("in hamdard ");
 
-		System.out.println("in live in delhi ");
+		System.out.println("in live in India ");
 
 		
 
